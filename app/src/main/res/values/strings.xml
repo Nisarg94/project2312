@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="gender">Sex</string>
+
+
+    <string-array name="gender_array">
+    <item>Male</item>
+    <item>Female</item>
+    </string-array>
+
+</resources>
